@@ -1,0 +1,1395 @@
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ai_scenicplus  Group         3000         100        2900          3  2024-11-18 12:12:10
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/aispehea  Group         1000         978          22         97  2024-11-18 12:12:10
+Path                                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ai_techniques_finance  Group         1000         216         784         21  2024-11-18 12:12:10
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/alfredo_fellowship  Group        10000        8465        1535         84  2024-11-18 12:12:10
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/als_family  Group         2000        1133         867         56  2024-11-18 12:12:11
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/als_gnomad_sv  Group         5000        3255        1745         65  2024-11-18 12:12:11
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/alspac  Group         1000         858         142         85  2024-11-18 12:12:11
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/alspac_genes  Group         2000         849        1151         42  2024-11-18 12:12:11
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/als_pls  Group         4000        1631        2369         40  2024-11-18 12:12:11
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/als_sod1  Group         2000        1022         978         51  2024-11-18 12:12:11
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/alstargets  Group         5120        4310         810         84  2024-11-18 12:12:11
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/als_wgs_pip  Group         2000        1647         353         82  2024-11-18 12:12:11
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ambermd  Group         1000         283         717         28  2024-11-18 12:12:11
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/aml19_hi_risk  Group         1000         618         382         61  2024-11-18 12:12:11
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/aml_consensus  Group         1000           0        1000          0  2024-11-18 12:12:12
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/aml_genomic_analysis  Group         1000        1000           0        100  2024-11-18 12:12:12
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/aml_npm1  Group         1000         957          43         95  2024-11-18 12:12:12
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/aml_studies_group_so  Group         1000         200         800         20  2024-11-18 12:12:12
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/araise  Group         5000        4793         207         95  2024-11-18 12:12:12
+Path                                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/atherton_group_processing  Group       125000      101427       23573         81  2024-11-18 12:12:12
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/autoscoring  Group         1000         688         312         68  2024-11-18 12:12:12
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/awan_giu  Group         1000         896         104         89  2024-11-18 12:12:12
+Path                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/b3460  Group         1000          34         966          3  2024-11-18 12:12:12
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bank_branch_networks  Group         1000           0        1000          0  2024-11-18 12:12:12
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bayunet  Group         1000         702         298         70  2024-11-18 12:12:13
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bcn_ml_als  Group         5000        4972          28         99  2024-11-18 12:12:13
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bcn_neudec  Group         1000         136         864         13  2024-11-18 12:12:13
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bcn_pd_pesticides  Group        10000        7238        2762         72  2024-11-18 12:12:13
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/be_abcd  Group         1000           0        1000          0  2024-11-18 12:12:13
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/be_dev_mind_networks  Group         1000          21         979          2  2024-11-18 12:12:13
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bell  Group        22000       20552        1448         93  2024-11-18 12:12:13
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bell_epigen  Group            1           0           1          0  2024-11-18 12:12:13
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bell_misc  Group         1000           0        1000          0  2024-11-18 12:12:13
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bell_rna  Group            1           0           1          0  2024-11-18 12:12:13
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bell_ubiome  Group            1           0           1          0  2024-11-18 12:12:14
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/be_rtvffradl  Group         4000        3650         350         91  2024-11-18 12:12:14
+Path                                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/be_tavi_haemodynamics  Group         2000        1425         575         71  2024-11-18 12:12:14
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/betwitfam  Group         1000         608         392         60  2024-11-18 12:12:15
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bhi_aims2trialspeech  Group         1000          83         917          8  2024-11-18 12:12:15
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bhi_comp_mnd  Group         1000           0        1000          0  2024-11-18 12:12:15
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bhi_fairness  Group         1000         266         734         26  2024-11-18 12:12:15
+Path                                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bhi_innovation_scholars  Group         1000           0        1000          0  2024-11-18 12:12:15
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bhi_napdehr  Group         1000           0        1000          0  2024-11-18 12:12:16
+Path                                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bhi_prediction_stability  Group         1000         143         857         14  2024-11-18 12:12:16
+Path                                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bhi_targetals_processing  Group         1000           0        1000          0  2024-11-18 12:12:16
+Path                                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bioinformatics_service  Group         5500        5043         457         91  2024-11-18 12:12:16
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bio_kg  Group         1000          33         967          3  2024-11-18 12:12:16
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bioresource  Group        30000       28293        1707         94  2024-11-18 12:12:16
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bmb_aim  Group         1000           0        1000          0  2024-11-18 12:12:16
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bmb_francis  Group         8000        5456        2544         68  2024-11-18 12:12:16
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bmb_groupfc  Group         1000         198         802         19  2024-11-18 12:12:16
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bmb_myskin  Group         7000        5001        1999         71  2024-11-18 12:12:16
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/bmb_nox4  Group         1000         968          32         96  2024-11-18 12:12:17
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/brc_mh  Group         1000         965          35         96  2024-11-18 12:12:17
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/btc_metagenomics  Group        20000       15148        4852         75  2024-11-18 12:12:17
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cannabis_and_me  Group         1000         195         805         19  2024-11-18 12:12:17
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cap_bipp  Group         1000         105         895         10  2024-11-18 12:12:17
+Path                                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cap_panda_mother_child  Group         1000         264         736         26  2024-11-18 12:12:17
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/car_lung_cancer  Group         8000        7812         188         97  2024-11-18 12:12:17
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cats  Group         1000           0        1000          0  2024-11-18 12:12:17
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cb_delta_tissue  Group         1000         507         493         50  2024-11-18 12:12:17
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cb_headnneck  Group         1000         785         215         78  2024-11-18 12:12:17
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cb_histology_data  Group         1000         110         890         11  2024-11-18 12:12:18
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cb_hormad1  Group        30000       29572         428         98  2024-11-18 12:12:18
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cb_hormad1_sc  Group         1000         326         674         32  2024-11-18 12:12:18
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cb_lymphnode  Group         2000        1997           3         99  2024-11-18 12:12:18
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cb_microbiome  Group        11000        9345        1655         84  2024-11-18 12:12:18
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cb_nanostring  Group         1000        1000           0        100  2024-11-18 12:12:18
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cb_normalbreast  Group         5000        4999           1         99  2024-11-18 12:12:18
+Path                              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cb_studying_t_cells  Group         1000         850         150         85  2024-11-18 12:12:18
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ccc_bonemarrow  Group         2000         501        1499         25  2024-11-18 12:12:18
+Path                                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ccc_cevical_screening_nhm  Group         1000         841         159         84  2024-11-18 12:12:18
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ccc_mol_ery  Group         1000         755         245         75  2024-11-18 12:12:18
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ccc_neuro_tcell  Group         1000           0        1000          0  2024-11-18 12:12:18
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ccc_oxamoe  Group         2000         516        1484         25  2024-11-18 12:12:19
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cd_apmicrobiome  Group        10000        6883        3117         68  2024-11-18 12:12:19
+Path              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cdb  Group         1000         256         744         25  2024-11-18 12:12:19
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cd_cmip_dna  Group         1000         295         705         29  2024-11-18 12:12:20
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cd_exging  Group         1000         212         788         21  2024-11-18 12:12:20
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cd_iebiome  Group         8000        1000        7000         12  2024-11-18 12:12:20
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cd_infectogenomics  Group         1000           0        1000          0  2024-11-18 12:12:20
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cdn_orginter_rna  Group         1000         121         879         12  2024-11-18 12:12:20
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cd_omics  Group         1000          34         966          3  2024-11-18 12:12:20
+Path                                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cd_oral_gut_microbe_link  Group         1000           0        1000          0  2024-11-18 12:12:20
+Path                                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cd_oral_gut_periodontitis  Group         1000           0        1000          0  2024-11-18 12:12:21
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/celgene  Group       425000      417430        7570         98  2024-11-18 12:12:21
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/celgene_sftp  Group        25000           0       25000          0  2024-11-18 12:12:21
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cfd_msc_2024  Group         1000           0        1000          0  2024-11-18 12:12:21
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cfd_simulations  Group         1000         843         157         84  2024-11-18 12:12:21
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cftspec  Group         5000        1129        3871         22  2024-11-18 12:12:21
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/charnu  Group         1000         521         479         52  2024-11-18 12:12:21
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ch_bakewell_group  Group         1000         331         669         33  2024-11-18 12:12:21
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ch_charlotte_pdra  Group         5000         272        4728          5  2024-11-18 12:12:21
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ch_ionogels  Group         1000           0        1000          0  2024-11-18 12:12:21
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ch_mariam  Group         1000          93         907          9  2024-11-18 12:12:22
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ch_mel_kp  Group         1000           0        1000          0  2024-11-18 12:12:22
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/chmi  Group        98000       75773       22227         77  2024-11-18 12:12:22
+Path                                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/chmi_def_immune_pathways  Group         1000         428         572         42  2024-11-18 12:12:22
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ch_mime  Group         3000        1134        1866         37  2024-11-18 12:12:22
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/chmi_msa  Group         4000        3183         817         79  2024-11-18 12:12:22
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/chmi_sandbox  Group        10000        2656        7344         26  2024-11-18 12:12:22
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ch_omiecs_md_hw  Group         1000         256         744         25  2024-11-18 12:12:22
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ch_qcomp_design  Group         1000         155         845         15  2024-11-18 12:12:22
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ch_smiecs_epsrc  Group         1000          77         923          7  2024-11-18 12:12:22
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cllm  Group         1000         940          60         94  2024-11-18 12:12:22
+Path                                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cmm_cardiac_metabolism  Group         1000         942          58         94  2024-11-18 12:12:23
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cmm_redox  Group         2000        1778         222         88  2024-11-18 12:12:23
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cmm_stroud  Group         1000           0        1000          0  2024-11-18 12:12:23
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/commonmind  Group         6000        4863        1137         81  2024-11-18 12:12:23
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cortical_imaging  Group         5000        4560         440         91  2024-11-18 12:12:23
+Path                                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cortical_imaging_biobank  Group         1000         624         376         62  2024-11-18 12:12:23
+Path                                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cortical_imaging_dhcp  Group         1000         906          94         90  2024-11-18 12:12:23
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/covid_df  Group         1000          63         937          6  2024-11-18 12:12:23
+Path              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cpm  Group          200           0         200          0  2024-11-18 12:12:23
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cps_delta_tissue  Group         1000         621         379         62  2024-11-18 12:12:24
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cps_neelanksha_msc  Group         1000         261         739         26  2024-11-18 12:12:24
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/crb_chick_placodes  Group         5000        4035         965         80  2024-11-18 12:12:24
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/crb_embryonic  Group         1000           0        1000          0  2024-11-18 12:12:24
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/crb_karenjliulab  Group         1000           0        1000          0  2024-11-18 12:12:25
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cr_epicardis  Group         1000         992           8         99  2024-11-18 12:12:25
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cryoarm_test  Group         5000        5006          -6        100  2024-11-18 12:12:25
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cryosparc  Group        25000       23667        1333         94  2024-11-18 12:12:25
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cryptic_exons  Group         3000        2435         565         81  2024-11-18 12:12:25
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/cssb_long_covid_gwas  Group         1000         999           1         99  2024-11-18 12:12:25
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/darkmatter  Group         6000         452        5548          7  2024-11-18 12:12:26
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/derm_genet  Group         1000         861         139         86  2024-11-18 12:12:26
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/derm_hair  Group         1000         985          15         98  2024-11-18 12:12:26
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/derm_pso  Group         1000         879         121         87  2024-11-18 12:12:26
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/derm_ukb  Group         3000        2883         117         96  2024-11-18 12:12:26
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dh_ehri  Group         1000           0        1000          0  2024-11-18 12:12:26
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dh_golden_triangle  Group         1000         448         552         44  2024-11-18 12:12:26
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/digital_twins_collab  Group         1000          72         928          7  2024-11-18 12:12:26
+Path                                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/digital_twins_finance  Group         1000           0        1000          0  2024-11-18 12:12:26
+Path                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dixon  Group         1000         853         147         85  2024-11-18 12:12:26
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/d_lncrna  Group         1000         119         881         11  2024-11-18 12:12:27
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dm_cdg  Group         1000         908          92         90  2024-11-18 12:12:27
+Path                              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dn_asd_mrna_synapse  Group         3000         402        2598         13  2024-11-18 12:12:27
+Path                                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dn_cortical_interneurons  Group         1000         492         508         49  2024-11-18 12:12:27
+Path                              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/docs_microbiome_msc  Group         1000         880         120         88  2024-11-18 12:12:27
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dosc_urea_metabolism  Group         3000        1172        1828         39  2024-11-18 12:12:27
+Path              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr  Group       425000      376389       48611         88  2024-11-18 12:12:27
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_as_gwas  Group         1000         513         487         51  2024-11-18 12:12:27
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_as_radiography  Group         1000           9         991          0  2024-11-18 12:12:27
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_cssbiobank  Group            1           0           1          0  2024-11-18 12:12:27
+Path                                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_dataset_repository  Group            1           0           1          0  2024-11-18 12:12:28
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_incom  Group         1000         209         791         20  2024-11-18 12:12:28
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_leap  Group       300000           0      300000          0  2024-11-18 12:12:28
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_multimuther  Group            1           0           1          0  2024-11-18 12:12:28
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_rosalind_archive  Group            1           0           1          0  2024-11-18 12:12:28
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_stop_psa_prs  Group         1000         931          69         93  2024-11-18 12:12:28
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_ubiome  Group            1           0           1          0  2024-11-18 12:12:28
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_urobiome  Group            1           0           1          0  2024-11-18 12:12:28
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_williams  Group        10000           0       10000          0  2024-11-18 12:12:28
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/dtr_zoeappdata  Group            1           0           1          0  2024-11-18 12:12:28
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/earlycause_microglia  Group         1000           0        1000          0  2024-11-18 12:12:29
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/eng_hyflume  Group         1000           0        1000          0  2024-11-18 12:12:29
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/eng_motion_modelling  Group         3000        2733         267         91  2024-11-18 12:12:29
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/eng_neumatmul  Group         1000           0        1000          0  2024-11-18 12:12:29
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/eng_waste_to_protein  Group         1000           0        1000          0  2024-11-18 12:12:30
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/epigenetics_oakey  Group         1000         797         203         79  2024-11-18 12:12:30
+Path                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/erisk  Group         2500         842        1658         33  2024-11-18 12:12:30
+Path                                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/erisk_expressed_emotion  Group         9000        7927        1073         88  2024-11-18 12:12:30
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/eventnlu  Group        10000        9568         432         95  2024-11-18 12:12:30
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/exoseqrep  Group         4000        1985        2015         49  2024-11-18 12:12:30
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/finemap_twins  Group         1024         201         823         19  2024-11-18 12:12:30
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/flt3_mrd  Group         1000         842         158         84  2024-11-18 12:12:31
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/fns_methylation  Group         2000         602        1398         30  2024-11-18 12:12:31
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/formalpaca  Group         1000         935          65         93  2024-11-18 12:12:31
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/gbasis  Group         1000           0        1000          0  2024-11-18 12:12:31
+Path                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/g_ect  Group         1000           0        1000          0  2024-11-18 12:12:31
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/gems  Group         1000           0        1000          0  2024-11-18 12:12:31
+Path                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/genai  Group         1000         359         641         35  2024-11-18 12:12:31
+Path                                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/genai_techniques_finance  Group         1000         239         761         23  2024-11-18 12:12:31
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/genbasacn  Group         5000        1038        3962         20  2024-11-18 12:12:31
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/gencorsle  Group         1000         503         497         50  2024-11-18 12:12:31
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/gene_lipid  Group         1000          52         948          5  2024-11-18 12:12:31
+Path                              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/genetics_depression  Group         1000         186         814         18  2024-11-18 12:12:32
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/geo_alienimpacts  Group         1000           0        1000          0  2024-11-18 12:12:32
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/groupdobson  Group         1000          40         960          4  2024-11-18 12:12:32
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/groupfogh  Group         5000        4716         284         94  2024-11-18 12:12:32
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/groupso  Group         5000        3410        1590         68  2024-11-18 12:12:32
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/gtrm_barcoding  Group         1000         508         492         50  2024-11-18 12:12:32
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/gtrm_chi_modelling  Group         1000         787         213         78  2024-11-18 12:12:32
+Path                                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/gtrm_msc_applied_bioinf  Group         1000          10         990          1  2024-11-18 12:12:32
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/gwased  Group         3000         548        2452         18  2024-11-18 12:12:32
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/gwas_sumstats  Group         8000        7985          15         99  2024-11-18 12:12:32
+Path              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/hab  Group        29900       12262       17638         41  2024-11-18 12:12:33
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/health_e_measures  Group         1000         809         191         80  2024-11-18 12:12:33
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/herv_collaboration  Group         1000         842         158         84  2024-11-18 12:12:33
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/herv_msc  Group         4000        3985          15         99  2024-11-18 12:12:33
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/herv_project  Group         7000        6559         441         93  2024-11-18 12:12:33
+Path                                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/hippocampal_neurogenesis  Group         1000         390         610         39  2024-11-18 12:12:33
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/hodgkinson_emedlab  Group         1000           0        1000          0  2024-11-18 12:12:33
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/hpcbench  Group         1000         218         782         21  2024-11-18 12:12:33
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/hpc_training  Group          200           0         200          0  2024-11-18 12:12:33
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/hughes_ukb  Group         1000         949          51         94  2024-11-18 12:12:33
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/hyperfast  Group         1000          79         921          7  2024-11-18 12:12:34
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/iawards  Group         1000         837         163         83  2024-11-18 12:12:34
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/id_apol1  Group         3000        2682         318         89  2024-11-18 12:12:34
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/id_covid_10x  Group         3000           0        3000          0  2024-11-18 12:12:35
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/id_hill_sims_wellcda  Group         1000           5         995          0  2024-11-18 12:12:35
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/id_myskin  Group         7000        6079         921         86  2024-11-18 12:12:35
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/id_ont_sequencing  Group         1000         977          23         97  2024-11-18 12:12:35
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/id_rmt_lab  Group         2000        1626         374         81  2024-11-18 12:12:35
+Path                                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/id_transcriptomic_hiv  Group         1000         779         221         77  2024-11-18 12:12:35
+Path                                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/incentives_blockchain  Group         1000          59         941          5  2024-11-18 12:12:36
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_ameesh_msc  Group         1000           0        1000          0  2024-11-18 12:12:36
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_cemratip  Group         1000           0        1000          0  2024-11-18 12:12:36
+Path                              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_clinicalllm_msc  Group         1000         577         423         57  2024-11-18 12:12:36
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_du  Group         3000        1382        1618         46  2024-11-18 12:12:36
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_durna_msc  Group         1000           0        1000          0  2024-11-18 12:12:36
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_elandi  Group         1000          26         974          2  2024-11-18 12:12:36
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_llmcache  Group         1000         994           6         99  2024-11-18 12:12:36
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_msc_wenzhushao  Group         1000           0        1000          0  2024-11-18 12:12:36
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_multimodal_qa  Group         1000         636         364         63  2024-11-18 12:12:36
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_nada_msc  Group         1000           0        1000          0  2024-11-18 12:12:37
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_narrative_msc  Group         1000         287         713         28  2024-11-18 12:12:37
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_nlp_msc  Group         1000         129         871         12  2024-11-18 12:12:37
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_ondrej_msc  Group         1000         196         804         19  2024-11-18 12:12:37
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_phee  Group         1000           0        1000          0  2024-11-18 12:12:37
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_rahin_msc  Group         1000           0        1000          0  2024-11-18 12:12:37
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_rate  Group         1000          58         942          5  2024-11-18 12:12:37
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_rex  Group         1000           0        1000          0  2024-11-18 12:12:37
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_rexasi_pro  Group         1000         184         816         18  2024-11-18 12:12:37
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_rmp  Group         1000           0        1000          0  2024-11-18 12:12:37
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_scihypo  Group         1000          14         986          1  2024-11-18 12:12:38
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_shivi_msc  Group         1000         455         545         45  2024-11-18 12:12:38
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/inf_wqp  Group         3000        1514        1486         50  2024-11-18 12:12:38
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/intelmo  Group         1000         770         230         77  2024-11-18 12:12:38
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/intldev_indrelpol  Group         1000         806         194         80  2024-11-18 12:12:38
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ioppn_apex  Group         8000        2951        5049         36  2024-11-18 12:12:38
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ioppn_gs21410  Group         1000         318         682         31  2024-11-18 12:12:38
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ipsc  Group        31000       23183        7817         74  2024-11-18 12:12:38
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ips_sailem_ainets  Group         1000         836         164         83  2024-11-18 12:12:38
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ips_sailem_ovuscrs  Group         5000        4080         920         81  2024-11-18 12:12:38
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ips_sailem_ovushrd  Group         5000        2237        2763         44  2024-11-18 12:12:39
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ips_sailem_ssl  Group         1000         552         448         55  2024-11-18 12:12:39
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ips_sailem_tcga  Group         1000         263         737         26  2024-11-18 12:12:39
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ips_sailem_wsl  Group         2000        1763         237         88  2024-11-18 12:12:39
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/irshad_bcellbreast  Group         2000        1889         111         94  2024-11-18 12:12:40
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/irshad_cruk_outliers  Group         1000         484         516         48  2024-11-18 12:12:40
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/irshad_io_tnbc  Group         1000         283         717         28  2024-11-18 12:12:40
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/irshad_llscovid  Group         1000           2         998          0  2024-11-18 12:12:40
+Path                                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/irshad_ln_phenocycler  Group         1000         904          96         90  2024-11-18 12:12:40
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/isaac_rlmc  Group         1000         372         628         37  2024-11-18 12:12:40
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/it_mos_lc  Group         5000         823        4177         16  2024-11-18 12:12:41
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/jg_os_test  Group           10           0          10          0  2024-11-18 12:12:41
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/justin_rds  Group         1000          31         969          3  2024-11-18 12:12:41
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/k1197830_personal  Group         4000        2658        1342         66  2024-11-18 12:12:41
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/k1204688_personal  Group         1000         404         596         40  2024-11-18 12:12:41
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/k1463445_personal  Group         4000        1103        2897         27  2024-11-18 12:12:41
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/k1464314_personal  Group         1000         938          62         93  2024-11-18 12:12:41
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/k1898254_personal  Group         4000         866        3134         21  2024-11-18 12:12:41
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/k19068889_personal  Group         4000        2238        1762         55  2024-11-18 12:12:41
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/k19077333_personal  Group         1000         166         834         16  2024-11-18 12:12:41
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/k19080544_personal  Group         1000         997           3         99  2024-11-18 12:12:42
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/k1925227_personal  Group         1000           0        1000          0  2024-11-18 12:12:42
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/k21069364_personal  Group         1000           0        1000          0  2024-11-18 12:12:42
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/k21183282_personal  Group         1000           0        1000          0  2024-11-18 12:12:42
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/kgpredict  Group         1000           0        1000          0  2024-11-18 12:12:42
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/kisysbio  Group         1000         946          54         94  2024-11-18 12:12:42
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/knightlab  Group         1000         215         785         21  2024-11-18 12:12:42
+Path                                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/kordastilab_neoepitope  Group         2000         810        1190         40  2024-11-18 12:12:42
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/lcs_genhypdispre  Group         1000         912          88         91  2024-11-18 12:12:42
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/livshits  Group         2000        1088         912         54  2024-11-18 12:12:42
+Path                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/lmrep  Group         1000         716         284         71  2024-11-18 12:12:43
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/lncrnas  Group         1000         751         249         75  2024-11-18 12:12:43
+Path                                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/lsm_wt_cognitive_ageing  Group         1000         214         786         21  2024-11-18 12:12:43
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/lsm_zelezniak  Group         5000        3079        1921         61  2024-11-18 12:12:43
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ltvc  Group         1000         894         106         89  2024-11-18 12:12:43
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/lynch_ls_pscc_seq  Group         4000        1248        2752         31  2024-11-18 12:12:43
+Path                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/maars  Group         4000        3830         170         95  2024-11-18 12:12:43
+Path                              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/math_gauge_theories  Group         1000           0        1000          0  2024-11-18 12:12:43
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/math_optimal_bigdata  Group         1000           0        1000          0  2024-11-18 12:12:43
+Path                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/m_bcg  Group         1000         627         373         62  2024-11-18 12:12:43
+Path                                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/membrane_protein_folding  Group         1000         176         824         17  2024-11-18 12:12:44
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/me_project  Group         1000           0        1000          0  2024-11-18 12:12:44
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/microgliamod  Group         1000        1000           0        100  2024-11-18 12:12:44
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/micro_igan  Group         1000         891         109         89  2024-11-18 12:12:44
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/migration_temp  Group       180000      165351       14649         91  2024-11-18 12:12:45
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mime  Group         1000           0        1000          0  2024-11-18 12:12:45
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mirocalstrial  Group        31000       29768        1232         96  2024-11-18 12:12:45
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/missflasso  Group         1000           0        1000          0  2024-11-18 12:12:45
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mito_als  Group        12000       10449        1551         87  2024-11-18 12:12:45
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mmg_beaconomics_ad  Group         5000        4620         380         92  2024-11-18 12:12:45
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mmg_dhcp  Group         2000         912        1088         45  2024-11-18 12:12:46
+Path                                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mmg_dhcp_jacobian_polygen  Group         1000         236         764         23  2024-11-18 12:12:46
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mmg_ecm_ccc  Group         3000         896        2104         29  2024-11-18 12:12:46
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mmg_ega_bc1958  Group         4600        1316        3284         28  2024-11-18 12:12:46
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mmg_episcores  Group         1000          10         990          1  2024-11-18 12:12:46
+Path                                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mmg_grp_single_cell_lab  Group         1000         431         569         43  2024-11-18 12:12:46
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mmg_methylation  Group         2000           0        2000          0  2024-11-18 12:12:46
+Path                              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mmg_neuro_disorders  Group         1000         785         215         78  2024-11-18 12:12:46
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mmg_scmethbank  Group         1000         110         890         11  2024-11-18 12:12:46
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/mmg_ugedppp  Group         1000         751         249         75  2024-11-18 12:12:46
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/morest  Group         2500        1972         528         78  2024-11-18 12:12:47
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/multi_omics_fell  Group        18000       19389       -1389        107  2024-11-18 12:12:47
+Path                                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/multiomics_heart_analysis  Group         1000          37         963          3  2024-11-18 12:12:47
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/myechild  Group         3000        2622         378         87  2024-11-18 12:12:47
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/myometerium_rnaseq  Group            1         343        -342      34330  2024-11-18 12:12:47
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/myometrium_rnaseq  Group         1000         299         701         29  2024-11-18 12:12:47
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/navs  Group         2000        1273         727         63  2024-11-18 12:12:47
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nektar  Group         1000           2         998          0  2024-11-18 12:12:47
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/neurohackpain  Group         1000           0        1000          0  2024-11-18 12:12:47
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/neuromorphic_dns  Group         1000         807         193         80  2024-11-18 12:12:47
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/neuroreg  Group         1000         691         309         69  2024-11-18 12:12:48
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nfh_study  Group         1000           4         996          0  2024-11-18 12:12:48
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nick_personal  Group         4000        3867         133         96  2024-11-18 12:12:48
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nihr_bioresource  Group         1000         284         716         28  2024-11-18 12:12:48
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nihr_ukbiobank  Group         5000        3157        1843         63  2024-11-18 12:12:48
+Path              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nlp  Group         1000         506         494         50  2024-11-18 12:12:48
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_attokings  Group         1000         110         890         11  2024-11-18 12:12:48
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_bo  Group         1000           0        1000          0  2024-11-18 12:12:48
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_bootstrap  Group         4000        1490        2510         37  2024-11-18 12:12:48
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_cryo_cfd  Group         1000         939          61         93  2024-11-18 12:12:48
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_deep_learning  Group         2000        1797         203         89  2024-11-18 12:12:48
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_epapg  Group         1000         412         588         41  2024-11-18 12:12:49
+Path                              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_fire_modelling  Group         1000           7         993          0  2024-11-18 12:12:49
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_kurf_jet  Group         1000          36         964          3  2024-11-18 12:12:49
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_liquid_sloshing  Group         1000           6         994          0  2024-11-18 12:12:50
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_lorenz  Group         6000        5248         752         87  2024-11-18 12:12:50
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_microbiome  Group         1000           0        1000          0  2024-11-18 12:12:50
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_phd_andres  Group         1000         243         757         24  2024-11-18 12:12:50
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_phd_soumalya  Group         1000           0        1000          0  2024-11-18 12:12:50
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_phys_ug_24  Group         1000           1         999          0  2024-11-18 12:12:50
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_satnam_msci  Group         1000          27         973          2  2024-11-18 12:12:50
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_simeone  Group         1000         805         195         80  2024-11-18 12:12:51
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_smneq  Group         1000           0        1000          0  2024-11-18 12:12:51
+Path                                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_student_projects  Group         1000           0        1000          0  2024-11-18 12:12:51
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/nmes_ulmschneider  Group         1000           0        1000          0  2024-11-18 12:12:51
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/oliverpainfel  Group         1800        1193         607         66  2024-11-18 12:12:51
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ont_zap_seq  Group         1000         480         520         48  2024-11-18 12:12:51
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/oph_amd  Group         1000           0        1000          0  2024-11-18 12:12:51
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ops_christopher  Group         1000         933          67         93  2024-11-18 12:12:51
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ops_rds  Group        10000        7323        2677         73  2024-11-18 12:12:51
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ops_sftp_test  Group         1000           0        1000          0  2024-11-18 12:12:51
+Path                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/paces  Group         1000           0        1000          0  2024-11-18 12:12:52
+Path                                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/pathways_to_psychosis  Group         1000         616         384         61  2024-11-18 12:12:52
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/patten_mrc_cll  Group         1000         286         714         28  2024-11-18 12:12:52
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/patten_mrc_fl  Group         1000         807         193         80  2024-11-18 12:12:52
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/pbdata  Group         1000         601         399         60  2024-11-18 12:12:52
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/pelgen  Group         1000         625         375         62  2024-11-18 12:12:52
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/phd_sims  Group         1000         187         813         18  2024-11-18 12:12:52
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/phidl_mhealth  Group        27000        2789       24211         10  2024-11-18 12:12:52
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/pih_earlyimagingfmri  Group         1000           0        1000          0  2024-11-18 12:12:52
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/placenta  Group         2000        1790         210         89  2024-11-18 12:12:52
+Path                                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/playing_chess_with_ai  Group         1000           0        1000          0  2024-11-18 12:12:53
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/poly_off  Group         1000         601         399         60  2024-11-18 12:12:53
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/powell_loading_bay  Group         1000         145         855         14  2024-11-18 12:12:53
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/powell_telomeres  Group         4000         834        3166         20  2024-11-18 12:12:53
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ppn_ageing_union  Group         1000           0        1000          0  2024-11-18 12:12:53
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ppn_aim  Group         1000           0        1000          0  2024-11-18 12:12:53
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ppn_als_longread  Group        10000        6863        3137         68  2024-11-18 12:12:53
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ppn_dn_mia  Group         1000          57         943          5  2024-11-18 12:12:53
+Path                                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ppn_e2_treatment_cerebral  Group         3000         760        2240         25  2024-11-18 12:12:53
+Path                                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ppn_hyperacute_stroke  Group         1000         182         818         18  2024-11-18 12:12:53
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ppn_kempton_see  Group         1000         104         896         10  2024-11-18 12:12:54
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ppn_microglia_mod  Group         5000        2843        2157         56  2024-11-18 12:12:54
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ppn_ont_rna  Group         5000        4972          28         99  2024-11-18 12:12:54
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ppn_rnp_networks  Group        21000       12189        8811         58  2024-11-18 12:12:54
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ppn_tng  Group        20000        8304       11696         41  2024-11-18 12:12:55
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/precision  Group         5000        4166         834         83  2024-11-18 12:12:55
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/premandm  Group         1000         644         356         64  2024-11-18 12:12:55
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/prescott  Group         1000         650         350         65  2024-11-18 12:12:55
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/proitsi  Group        25000       15431        9569         61  2024-11-18 12:12:55
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/projectmine  Group        71000       70694         306         99  2024-11-18 12:12:55
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/proj_loukides  Group         4000        3083         917         77  2024-11-18 12:12:56
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/prumec_rnaseq  Group         3000        1303        1697         43  2024-11-18 12:12:56
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/qcgbf_mmkt  Group         5000        3072        1928         61  2024-11-18 12:12:56
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/radar_base  Group         1000           0        1000          0  2024-11-18 12:12:56
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/rcmb_csbp  Group         1000         778         222         77  2024-11-18 12:12:56
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/rcmb_kinesin  Group         1000           2         998          0  2024-11-18 12:12:56
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/rcmb_yb1  Group         1000           0        1000          0  2024-11-18 12:12:56
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/reachsna  Group         1000           0        1000          0  2024-11-18 12:12:56
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/redcellbio  Group        10000        9379         621         93  2024-11-18 12:12:56
+Path                              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/regulatory_genomics  Group       120000      113033        6967         94  2024-11-18 12:12:56
+Path                                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/representation_learning  Group         1000         698         302         69  2024-11-18 12:12:57
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/rmt_lab  Group         1000         839         161         83  2024-11-18 12:12:57
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/rnaseq_hpc_course  Group         1000         996           4         99  2024-11-18 12:12:57
+Path                                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/rnaseq_mouse_myometrium  Group         1000         155         845         15  2024-11-18 12:12:57
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/rnaseq_processing  Group         1000         998           2         99  2024-11-18 12:12:57
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/rna_seq_rtmnlab  Group         5000        3886        1114         77  2024-11-18 12:12:57
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/rnp_networks  Group            1           0           1          0  2024-11-18 12:12:57
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/roeder_lab  Group         1000         748         252         74  2024-11-18 12:12:57
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/roeder_lido_rna  Group         1000         831         169         83  2024-11-18 12:12:57
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/rosetree  Group         3000        2435         565         81  2024-11-18 12:12:57
+Path                                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/rubellus_genome_assembly  Group         1000         923          77         92  2024-11-18 12:12:58
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/safebatt  Group         1000         132         868         13  2024-11-18 12:12:58
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sailemlab  Group        10000        2198        7802         21  2024-11-18 12:12:58
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sailemlab_ssl  Group         1000         177         823         17  2024-11-18 12:12:58
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sangrithi_lab  Group        15000       11423        3577         76  2024-11-18 12:12:58
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sc_development  Group         1000         794         206         79  2024-11-18 12:12:58
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sgdp_23andme  Group         1000         298         702         29  2024-11-18 12:12:58
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sgdp_coleman  Group         3000        1831        1169         61  2024-11-18 12:12:58
+Path                              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sgdp_coleman_public  Group         1000         225         775         22  2024-11-18 12:12:58
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sgdp_fabbri  Group          500           2         498          0  2024-11-18 12:12:58
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sgdp_gemini  Group         1000         224         776         22  2024-11-18 12:12:59
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sgdp_highiq  Group         1000           0        1000          0  2024-11-18 12:12:59
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sgdp_martyna_msc  Group         1000           0        1000          0  2024-11-18 12:12:59
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sgdp_nanopore  Group        50000       44451        5549         88  2024-11-18 12:12:59
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sgdp_strdep  Group         1000         889         111         88  2024-11-18 12:13:00
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/shah  Group         3000        1034        1966         34  2024-11-18 12:13:00
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/shahsc  Group        10000        5164        4836         51  2024-11-18 12:13:00
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sickle_genome  Group         1250        1050         200         84  2024-11-18 12:13:00
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sle_genetics  Group        10000        8346        1654         83  2024-11-18 12:13:00
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sptbprecise  Group         1000           0        1000          0  2024-11-18 12:13:00
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sspp_protect  Group         1000         645         355         64  2024-11-18 12:13:01
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sss_yp_study  Group         1000           0        1000          0  2024-11-18 12:13:01
+Path                               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/stem_cells_pituitary  Group         1000         208         792         20  2024-11-18 12:13:01
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/structural_bioinfo  Group         1000         412         588         41  2024-11-18 12:13:01
+Path                              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/studying_lymph_node  Group            1           0           1          0  2024-11-18 12:13:01
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/sv_fightmnd  Group         1000           0        1000          0  2024-11-18 12:13:01
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/tardbp  Group         1000         483         517         48  2024-11-18 12:13:01
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/teamwong  Group         5000        3524        1476         70  2024-11-18 12:13:01
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/teds  Group         5000        4077         923         81  2024-11-18 12:13:01
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/tf_preprod_tre  Group           10           0          10          0  2024-11-18 12:13:01
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/tofcmr  Group         5000           2        4998          0  2024-11-18 12:13:02
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/tows  Group         1000           1         999          0  2024-11-18 12:13:02
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/translbio  Group        31100       31037          63         99  2024-11-18 12:13:02
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/tre_er_sandbox  Group           10           0          10          0  2024-11-18 12:13:02
+Path                             Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ukb_distensibility  Group        13000        5222        7778         40  2024-11-18 12:13:02
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ukbiobank  Group        38000       31364        6636         82  2024-11-18 12:13:02
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ukbiobank_hodges  Group         2000        1869         131         93  2024-11-18 12:13:02
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ukbiobankpain  Group         1500        1403          97         93  2024-11-18 12:13:02
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ukb_rdna_bmi  Group         1000         261         739         26  2024-11-18 12:13:02
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/ukirtc_rtd  Group         2000        1724         276         86  2024-11-18 12:13:02
+Path                 Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/victor  Group         3000        2255         745         75  2024-11-18 12:13:03
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/vyse  Group         1000         963          37         96  2024-11-18 12:13:03
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/wcard_advseqanlys  Group         1000         862         138         86  2024-11-18 12:13:03
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/wch_insight  Group         1000         268         732         26  2024-11-18 12:13:03
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/wcic  Group         1000         142         858         14  2024-11-18 12:13:03
+Path                   Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/xandtest  Group        50000           0       50000          0  2024-11-18 12:13:03
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/prj/zebrafish  Group         1000           0        1000          0  2024-11-18 12:13:03
+Path                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/aihub  Group            1           0           1          0  2024-11-19 16:40:17
+Path               Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/epap  Group       100000       97737        2263         97  2024-11-19 16:40:17
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_baletto  Group         1000          22         978          2  2024-11-19 16:40:17
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_bonini  Group         1000         515         485         51  2024-11-19 16:40:17
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_cocarascu  Group         1000         359         641         35  2024-11-19 16:40:17
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_fairbairn  Group         1000         977          23         97  2024-11-19 16:40:17
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_kantorovitch  Group         1000           0        1000          0  2024-11-19 16:40:17
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_kozik  Group         1000           0        1000          0  2024-11-19 16:40:17
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_lorenz  Group         1000         882         118         88  2024-11-19 16:40:18
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_molteni  Group         1000         823         177         82  2024-11-19 16:40:18
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_politis  Group         1000           0        1000          0  2024-11-19 16:40:18
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_rajendran  Group         1000         853         147         85  2024-11-19 16:40:18
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_shi  Group         3000        2961          39         98  2024-11-19 16:40:18
+Path                      Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_simperl  Group         1000         214         786         21  2024-11-19 16:40:18
+Path                           Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_ulmschneider  Group         1000         886         114         88  2024-11-19 16:40:18
+Path                              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_vanschilfgaarde  Group         1000           1         999          0  2024-11-19 16:40:18
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/grv_weber  Group         1000         894         106         89  2024-11-19 16:40:18
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/hodgkinsonlab  Group       160000      148025       11975         92  2024-11-19 16:40:19
+Path                          Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/hpc_healthcheck  Group          500         108         392         21  2024-11-19 16:40:19
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/inf_secres  Group         1000           0        1000          0  2024-11-19 16:40:19
+Path                       Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/isabelle_kcl  Group         1000           0        1000          0  2024-11-19 16:40:19
+Path              Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/luo  Group         1000         256         744         25  2024-11-19 16:40:19
+Path                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/morty  Group         2000        1117         883         55  2024-11-19 16:40:19
+Path                     Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+-----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/msc_appbio  Group         5000        2813        2187         56  2024-11-19 16:40:19
+Path                            Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/nd_bioinformatics  Group         1000         687         313         68  2024-11-19 16:40:19
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/neurohack  Group         1000           0        1000          0  2024-11-19 16:40:19
+Path                         Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+---------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/nmes_teach_gpu  Group         1000           0        1000          0  2024-11-19 16:40:20
+Path                        Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/nmes_visitors  Group         1000           0        1000          0  2024-11-19 16:40:20
+Path                    Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+----------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/pirrohysi  Group            1           0           1          1  2024-11-19 16:40:20
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/simeone  Group         1000         101         899         10  2024-11-19 16:40:20
+Path                  Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+--------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/smi_cdt  Group         1000           0        1000          0  2024-11-19 16:40:20
+Path                Type      Quota GB    Usage GB    Avail GB    Usage %  Updated
+------------------  ------  ----------  ----------  ----------  ---------  -------------------
+/scratch/grp/test1  Group         1000          36         964          3  2024-11-19 16:40:20
