@@ -5,3 +5,5 @@ scipy
 jupyterlab
 openpyxl
 odfpy
+lxml
+html5lib
